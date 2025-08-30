@@ -24,7 +24,7 @@ const Hero = () => {
             <img
               src={profilePicture}
               alt="Kalipindi Chaitanya Kumar"
-              className="w-32 h-32 sm:w-40 sm:h-40 rounded-full object-cover mx-auto shadow-glow border-4 border-primary/20"
+              className="w-50 h-50 sm:w-50 sm:h-50 lg:w-72 lg:h-72 rounded-full object-cover mx-auto shadow-glow border-4 border-primary/20"
             />
             <div className="absolute inset-0 rounded-full opacity-20 animate-pulse"></div>
           </div>
